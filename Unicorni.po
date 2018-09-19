@@ -16,6 +16,6 @@ msgid "UNICORNO.ROSA.JEN"
 msgstr "ciao sono Jen"
 
 #: 
-msgid "UNICORNO.ROSA.FUNNY"
-msgstr "ciao Sono Funny"
+msgid "UNICORNO.ROSA.Guccy"
+msgstr "ciao Sono Guccy"
 ""
